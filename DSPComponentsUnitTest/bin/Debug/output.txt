@@ -1,0 +1,5 @@
+output:500
+output:-286.5678
+output:-8.416554
+output:-31.83038
+output:-19.62894
